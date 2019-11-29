@@ -7,7 +7,7 @@ let arr=[];
 var testdata;
 $(document).ready(function(){
     $.ajax({
-        url:'http://localhost:8100/api',
+        url:'https://wit-spiker.herokuapp.com/api',
         
     }).done(function(data) {
         //this.data = dataNew;
