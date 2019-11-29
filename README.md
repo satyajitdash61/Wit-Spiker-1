@@ -9,7 +9,7 @@ Chrome Web Browser
 
 # Technlogies Used
 
-Html, CSS, Javascript, Jquery
+Html, CSS, Javascript, Jquery, Node Js, Express js, Mongodb
 
 # Authors
 Satyajit Dash
