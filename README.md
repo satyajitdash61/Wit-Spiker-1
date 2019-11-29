@@ -12,3 +12,6 @@ Chrome Web Browser
 # Technlogies Used
 
 Html, CSS, Javascript, Jquery
+
+# Preview
+https://mystifying-hermann-25f77a.netlify.com/home.html
