@@ -1,5 +1,3 @@
-# Wit Spiker
-
 Hello coders,
 
 This is a Quiz Web Application. Here User can choose the option and give the test.
@@ -12,6 +10,9 @@ Chrome Web Browser
 # Technlogies Used
 
 Html, CSS, Javascript, Jquery
+
+# Authors
+Satyajit Dash
 
 # Preview
 https://mystifying-hermann-25f77a.netlify.com/home.html
