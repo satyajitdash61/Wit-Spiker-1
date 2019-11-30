@@ -15,4 +15,4 @@ Html, CSS, Javascript, Jquery, Node Js, Express js, Mongodb
 Satyajit Dash
 
 # Preview
-https://mystifying-hermann-25f77a.netlify.com/home.html
+https://objective-lumiere-5c3367.netlify.com/home.html
